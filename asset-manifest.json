@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fizzy/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/fizzy/static/js/main.92c92ef6.chunk.js",
+    "main.js.map": "/fizzy/static/js/main.92c92ef6.chunk.js.map",
+    "runtime-main.js": "/fizzy/static/js/runtime-main.c35dc3bb.js",
+    "runtime-main.js.map": "/fizzy/static/js/runtime-main.c35dc3bb.js.map",
+    "static/js/2.8c6bb210.chunk.js": "/fizzy/static/js/2.8c6bb210.chunk.js",
+    "static/js/2.8c6bb210.chunk.js.map": "/fizzy/static/js/2.8c6bb210.chunk.js.map",
+    "static/js/3.188abcc9.chunk.js": "/fizzy/static/js/3.188abcc9.chunk.js",
+    "static/js/3.188abcc9.chunk.js.map": "/fizzy/static/js/3.188abcc9.chunk.js.map",
+    "index.html": "/fizzy/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/fizzy/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.8c6bb210.chunk.js.LICENSE.txt": "/fizzy/static/js/2.8c6bb210.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fizzy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c35dc3bb.js",
+    "static/js/2.8c6bb210.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.92c92ef6.chunk.js"
+  ]
+}
